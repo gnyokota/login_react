@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gnyokota/login_react.git/static/css/main.9dfb4b6b.chunk.css",
+    "main.js": "/gnyokota/login_react.git/static/js/main.d5b83564.chunk.js",
+    "main.js.map": "/gnyokota/login_react.git/static/js/main.d5b83564.chunk.js.map",
+    "runtime-main.js": "/gnyokota/login_react.git/static/js/runtime-main.8a815b69.js",
+    "runtime-main.js.map": "/gnyokota/login_react.git/static/js/runtime-main.8a815b69.js.map",
+    "static/js/2.5222ae9d.chunk.js": "/gnyokota/login_react.git/static/js/2.5222ae9d.chunk.js",
+    "static/js/2.5222ae9d.chunk.js.map": "/gnyokota/login_react.git/static/js/2.5222ae9d.chunk.js.map",
+    "index.html": "/gnyokota/login_react.git/index.html",
+    "static/css/main.9dfb4b6b.chunk.css.map": "/gnyokota/login_react.git/static/css/main.9dfb4b6b.chunk.css.map",
+    "static/js/2.5222ae9d.chunk.js.LICENSE.txt": "/gnyokota/login_react.git/static/js/2.5222ae9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a815b69.js",
+    "static/js/2.5222ae9d.chunk.js",
+    "static/css/main.9dfb4b6b.chunk.css",
+    "static/js/main.d5b83564.chunk.js"
+  ]
+}
