@@ -15,6 +15,7 @@ function LoginForm({ login, error }) {
     });
   };
 
+  //input events:
   const handleEmailChange = (event) => {
     setDetails({ ...details, email: event.target.value });
   };

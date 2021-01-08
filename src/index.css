@@ -86,6 +86,12 @@ input:focus {
   color: #f05454;
 }
 
+.user-list {
+  list-style-type: none;
+  color: #e8e8e8;
+  padding: 0;
+}
+
 /* break point  */
 @media only screen and (max-device-width: 480px) {
   .login-section {
